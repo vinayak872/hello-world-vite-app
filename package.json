@@ -26,7 +26,7 @@
     "globals": "^16.3.0",
     "vite": "^7.0.4"
   }
-  "homepage": "https://klu2300033530.github.io/CICD/",
+  "homepage": "https://klu2300033530.github.io/hello-world-vite-app/",
 "scripts": {
   "lint": "eslint .",
   "dev": "vite",
